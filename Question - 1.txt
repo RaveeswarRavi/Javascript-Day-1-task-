@@ -1,3 +1,6 @@
+Question -1
+Write a blog on Difference between HTTP1.1 vs HTTP2
+Answer:
 Introduction
   The Hypertext Transfer Protocol, or HTTP, is an application protocol that has been the de facto standard for communication on the World Wide Web since its invention in 1989. 
 From the release of HTTP/1.1 in 1997 until recently, there have been few revisions to the protocol. But in 2015, a reimagined version called HTTP/2 came into use,
